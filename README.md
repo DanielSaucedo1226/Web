@@ -1,2 +1,2 @@
 # Web
-Frontend de PagIna de Bienes Raices
+Frontend de pagina de BienesRaices
